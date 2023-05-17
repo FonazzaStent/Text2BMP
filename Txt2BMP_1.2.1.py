@@ -1,4 +1,4 @@
-"""Txt2BMP 1.2.1 - Convert text to an image to spot hidden pareidolias.
+"""Text to Image 1.2.1 - Convert text to an image to spot hidden pareidolias.
 Copyright (C) 2022  Fonazza-Stent
 
 This program is free software: you can redistribute it and/or modify

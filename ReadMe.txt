@@ -1,4 +1,4 @@
-Text to BMP 1.2.1
+Text to Image 1.2.1
 
 The app reads content from a text file and converts it to a BMP image.
 
